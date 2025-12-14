@@ -1,0 +1,3 @@
+# 名称: 代理修正
+payload:
+  - DOMAIN-SUFFIX,google.com
