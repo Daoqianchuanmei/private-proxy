@@ -1,0 +1,3 @@
+# 名称: 直连修正
+payload:
+  - DOMAIN-SUFFIX,snssdk.com
